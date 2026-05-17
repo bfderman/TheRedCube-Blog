@@ -1,6 +1,6 @@
 ---
 date: 2025-10-07
-author: Thomas Gingele, Felix Schladt, Mathis Foxius, Marius Biebel, Simon Neumeier, Stefan Eiwanger, Moritz Huber
+author: Thomas Gingele, Felix Schladt, Mathis Foxius, Marius Biebel, Simon Neumeier, Stefan Eiwanger, Moritz Huber, Betül Feyza Derman
 cover: /assets/images/2025-CISS-Finals-Team.jpg
 ---
 
